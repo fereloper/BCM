@@ -1,0 +1,311 @@
+{
+  "t1": [
+    {
+      "contentItems": [
+        {
+          "content": "When good times come, you are grateful and Allah rewards you for your gratitude, and when difficult times come, you are patient and Allah also rewards your patience. You never lose. You are in a ‘win-win’ situation all the time.",
+          "contenttype": "text/plain",
+          "created": 1586109600000,
+          "id": "666073008692314113",
+          "language": "en"
+        },
+        {
+          "content": "It’s a day of happiness and excitement as an elder brother, and very proud of my little brother Salman Rahman Tanay !!! Wishing a Smooth and successful path ahead brother!!!  Alhamdulillah for everything!!",
+          "contenttype": "text/plain",
+          "created": 1622829600000,
+          "id": "666073008692314114",
+          "language": "en"
+        },
+        {
+          "content": "Thank you Rashedur Rahman sir for give me the opportunity to join BIPSOT seminar on “ Opportunities for youth to contribute to the UN” . It’s been a great experience to hear from UN professionals live ",
+          "contenttype": "text/plain",
+          "created": 1570125600000,
+          "id": "666073008692314115",
+          "language": "en"
+        },
+        {
+          "content": "It was great team work indeed ❤️ Thank you Ln Faisal Hossain for the leadership role , Nabiha Naz for monitoring the whole process & Junaed H Jeem for the insights. Love you aLL" ,
+          "contenttype": "text/plain",
+          "created": 1559584800000,
+          "id": "666073008692314116",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "contentItems": [
+        {
+          "content": "Back to my Canadian root for a couple of days",
+          "contenttype": "text/plain",
+          "created": 1551981600000,
+          "id": "666073008692314117",
+          "language": "en"
+        },
+        {
+          "content": "He was my thesis supervisor. I wish i could keep my interest in security research intact. Didn't realize when I lost it.",
+          "contenttype": "text/plain",
+          "created": 1591552800000,
+          "id": "666073008692314118",
+          "language": "en"
+        },
+        {
+          "content": "It's been a month working for Carfax US. Really like the atmosphere here and this view",
+          "contenttype": "text/plain",
+          "created": 1573063200000,
+          "id": "666073008692314119",
+          "language": "en"
+        },
+        {
+          "content": "That's what happens when you drive an accord. You don't want to let it go.",
+          "contenttype": "text/plain",
+          "created": 1604599200000,
+          "id": "666073008692314120",
+          "language": "en"
+        },
+        {
+          "content": "I saw a dream last night about something that I lost quite a few years ago. It made me remember the things that I really wanted to hold onto in my life but couldn't. I kept thinking about it for an hour or so. I felt really bad and didn't want to get out of the bed. Then I realized, Allah more than compensated me for every single thing that I couldn't get in my life, what am I feeling bad for!! Alhamdulillah",
+          "contenttype": "text/plain",
+          "created": 1596650400000,
+          "id": "666073008692314121",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "contentItems": [
+        {
+          "content": "When You Develop The Ability To Listen To NEGATIVE Comments Without Losing Temper Or Confidence, It Means Youve Become Matured And Truly EDUCATED",
+          "contenttype": "text/plain",
+          "created": 1569952800000,
+          "id": "666073008692314122",
+          "language": "en"
+        },
+        {
+          "content": "There are several job opened for united trust school. Experienced female teachers are also encouraged. Please apply as soon as possible in the following link.",
+          "contenttype": "text/plain",
+          "created": 1564682400000,
+          "id": "666073008692314123",
+          "language": "en"
+        },
+        {
+          "content": "A Visionary and caring entrepreneur... May Allah bless him. Wish I could be like him.",
+          "contenttype": "text/plain",
+          "created": 1559412000000,
+          "id": "666073008692314124",
+          "language": "en"
+        },
+        {
+          "content": "UIU CSE Graduate, Now in United Trust's School, Kishorjong. Looking great. Visting new places is fun. So if you want to visit this school, let me know! i will arrange everything.",
+          "contenttype": "text/plain",
+          "created": 1556733600000,
+          "id": "666073008692314125",
+          "language": "en"
+        },
+        {
+          "content": "Spending very good time in the beach. I wish I could spent time like this every month.",
+          "contenttype": "text/plain",
+          "created": 1556333600000,
+          "id": "666073008692314125",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "contentItems": [
+        {
+          "content": "Congratulation to CISCO Academy of UIU for continued achievement",
+          "contenttype": "text/plain",
+          "created": 1551981600000,
+          "id": "666073008692314126",
+          "language": "en"
+        },
+        {
+          "content": "Another fabulous success story of BSCSE students! Abdullah Al Rifat, Faizah Farzana and Fauzia Haque, three undergraduate students have been selected for the Google CodeU program. The Google CodeU Program targets to develop top Computer Science students in countries with no Google engineering office. During the 10-week program, the students get the chance to work under the guidance of a Google Engineer. After this initial 10-week program all of them has been selected for a visit to Google office, Singapore for further training and a recruitment step thereon. Congratulations to the students! Also congratulations and thanks to Sheikh Adilina, lecturer, Dept of CSE, UIU, an alumni of Women Techmakers program by Google who referred them and mentored them for the Google CodeU program.",
+          "contenttype": "text/plain",
+          "created": 1625594400000,
+          "id": "666073008692314127",
+          "language": "en"
+        },
+        {
+          "content": "IT engineers going to Japan. It is the beginning",
+          "contenttype": "text/plain",
+          "created": 1609956000000,
+          "id": "666073008692314128",
+          "language": "en"
+        },
+        {
+          "content": "A big congratulation to HSC passed students. Do not regret if you have not done up to your expectation. I have seen many students who have excelled in their Bachelor degree with mediocre results in HSC. It all depends on your hard work in the coming couple of years. It has nothing to do with what you have done in your SSC and HSC exams. Just forget the past and start with new energy and passion for learning. I wish you all a bright and prosperous future. You are our future Bangladesh.",
+          "contenttype": "text/plain",
+          "created": 1588788000000,
+          "id": "666073008692314129",
+          "language": "en"
+        },
+        {
+          "content": "The 10th International Conference on Financial Criminology (ICFC) 2019 is going to be hosted by United International University (UIU) in association with ARI-Universiti Teknologi MARA (UiTM), Malaysia during 7-8 December 2019 at UIU Campus. The theme of the conference is Financial Criminology: Genesis, Crisis and Prognosis. There will be publication opportunities of the quality papers in the standard Journals. Please find attached a flyer on Call for Papers. Further details are available at the following conference website: www.icfc.uiu.ac.bd. You are cordially invited to submit your paper as per the provided guidelines. It is appreciated if you can promote the conference among the researchers, academics, research students, financial professionals, concerned personnel from public & private entities/organizations within your network.",
+          "contenttype": "text/plain",
+          "created": 1559844000000,
+          "id": "666073008692314130",
+          "language": "en"
+        }
+      ]
+    }
+  ],
+  "t2": [
+    {
+      "contentItems": [
+        {
+          "content": "When finally death kiss, Everything you were worried about seems unnecessary and worthless. Thinking whole life infront of my eyes. Those mistakes can not be altered. Wish I could get back my life again.",
+          "contenttype": "text/plain",
+          "created": 1609956000000,
+          "id": "666073008692314131",
+          "language": "en"
+        },
+        {
+          "content": "Factory visit of Bsrm Steel & Meghnagroup completed successfully. Really amazed by the hospitality of Bsrm Steel. I am both proud & sad for the factory worker of BSRM. They are giving extreme labor to take forward our country. May the almighty allah bess us all to take forward our beloved nation.",
+          "contenttype": "text/plain",
+          "created": 1559844000000,
+          "id": "666073008692314132",
+          "language": "en"
+        },
+        {
+          "content": "The sky grew darker, painted blue on blue, one stroke at a time, into deeper and deeper shades of night.",
+          "contenttype": "text/plain",
+          "created": 1557165600000,
+          "id": "666073008692314133",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "contentItems": [
+        {
+          "content": "When destiny pushes you so hard that your hair cannot keep up and left behind.",
+          "contenttype": "text/plain",
+          "created": 1546970400000,
+          "id": "666073008692314134",
+          "language": "en"
+        },
+        {
+          "content": "Someone once said, do not start your Canadian journey in a small city, otherwise you'll have negative ideas about Canada. I am fortunate enough to start my journey in this big yet most beautiful city called Montreal.",
+          "contenttype": "text/plain",
+          "created": 1625680800000,
+          "id": "666073008692314135",
+          "language": "en"
+        },
+        {
+          "content": "The night before leaving for Canada. It had been a mixed experience at UIU. On one hand it pushed my academic journey to a new level, on the other hand I had some of the worst moments of life there..",
+          "contenttype": "text/plain",
+          "created": 1625680800000,
+          "id": "666073008692314136",
+          "language": "en"
+        },
+        {
+          "content": "Country roads take me home to the place where we belong. Take me home country roads. All my memories gatrher round her.",
+          "contenttype": "text/plain",
+          "created": 1570471200000,
+          "id": "666073008692314137",
+          "language": "en"
+        },
+        {
+          "content": "About 900 meter above the sea level....we did it. Again we want to the same.",
+          "contenttype": "text/plain",
+          "created": 1554660000000,
+          "id": "666073008692314138",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "contentItems": [
+        {
+          "content": "Learn and do Industry standard project from Industry Professionals",
+          "contenttype": "text/plain",
+          "created": 1596736800000,
+          "id": "666073008692314139",
+          "language": "en"
+        },
+        {
+          "content": "we Don't need these successful son, we need good human.... so painful",
+          "contenttype": "text/plain",
+          "created": 1565114400000,
+          "id": "666073008692314140",
+          "language": "en"
+        },
+        {
+          "content": "Internship starts with all CDIP courses, First time ever.",
+          "contenttype": "text/plain",
+          "created": 1562176800000,
+          "id": "666073008692314141",
+          "language": "en"
+        },
+        {
+          "content": "First time introducing Internship facilities. Who are interested to join, grab the opportunity to secure your future.",
+          "contenttype": "text/plain",
+          "created": 1606932000000,
+          "id": "666073008692314142",
+          "language": "en"
+        },
+        {
+          "content": "We need web developer in CDIP. Please apply who are expert in developing web application. CDIP students are encourage to apply.",
+          "contenttype": "text/plain",
+          "created": 1606942000000,
+          "id": "666073008692314142",
+          "language": "en"
+        },
+        {
+          "content": "Various courses are offered in CDIP, UIU. If you are interested to develop your skill, feel free to contact the management. There are 4 courses are available now: PHP Intermediate, Laravel Developer, Data Engineering, Python.",
+          "contenttype": "text/plain",
+          "created": 1607942000000,
+          "id": "666073008692314142",
+          "language": "en"
+        }
+      ]
+    },
+    {
+      "contentItems": [
+        {
+          "content": "One of our BBA graduates Mr. Syed Ehsan Mahmud, joined at Aston University, United Kingdom as Assistant Professor in Finance. Lets Congratulate him for his success. Its a matter of pride for #UIU, all the students and all the Alumni of UIU.",
+          "contenttype": "text/plain",
+          "created": 1620410400000,
+          "id": "666073008692314143",
+          "language": "en"
+        },
+        {
+          "content": "One of our CSE graduate Md. Mahabub Hossain, ID: 011033037 joined Apple Inc. as Lead Engineer. Congratulation",
+          "contenttype": "text/plain",
+          "created": 1620410400000,
+          "id": "666073008692314144",
+          "language": "en"
+        },
+        {
+          "content": "We must honour senior citizen",
+          "contenttype": "text/plain",
+          "created": 1615140000000,
+          "id": "666073008692314145",
+          "language": "en"
+        },
+        {
+          "content": "Career carnival sponsored by Akiz group and others",
+          "contenttype": "text/plain",
+          "created": 1615140000000,
+          "id": "666073008692314146",
+          "language": "en"
+        },
+        {
+          "content": "UIU is going to launch its Civil Engg program. We are looking for a Ph.D in Civil Engg who is able to lead a new Civil Engg department. The applicant has to develop state of the art laboratories for a civil engg program having all the conventionl majors. We prefer young, energetic and enthusiastic personality with a proactive attitude having an age range 40 to 55 years. Interested candidates may submit their cvs to cmr@uiu.ac.bd",
+          "contenttype": "text/plain",
+          "created": 1612720800000,
+          "id": "666073008692314147",
+          "language": "en"
+        },
+        {
+          "content": "It is a pleasure to inform you that Shaira Tabassum, undergrad student of computer science department has received the prestigious Google Women Techmakers award for outstanding academic results and leadership. To receive this scholarship, she has been invited to Google Sydney office in Australia to attend a convening organized by Google from 28th August – 31st August, 2019.",
+          "contenttype": "text/plain",
+          "created": 1610042400000,
+          "id": "666073008692314148",
+          "language": "en"
+        }
+      ]
+    }
+  ]
+}
